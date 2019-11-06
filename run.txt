@@ -1,0 +1,1 @@
+python scrapeImages.py --search "car" --num_images 32 --directory "imgs" < keywords.txt
